@@ -98,4 +98,3 @@ python3 test_normalizer.py
 - `pyproject.toml`: Modern Python package configuration
 - `README.md`: User documentation
 - `test_normalizer.py`: Simple test script
-
